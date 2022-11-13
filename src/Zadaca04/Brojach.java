@@ -11,7 +11,7 @@ public class Brojach {
 		}
 
 		public void reset () {
-			this.brojach = 0;
+			this.brojach =0;
 
 	}
 

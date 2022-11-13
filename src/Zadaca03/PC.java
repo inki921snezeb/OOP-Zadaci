@@ -13,7 +13,7 @@ public class PC {
 		this.SSD= 256;
 	}
 
-	public void prvMetod(int zgolemiMemorija, int novSSD){
+	public void prvMetod(int zgolemiMemorija,int novSSD){
 		System.out.println("Memorijata beshe " + this.memorija + golemina + ", sega iznesuva " + (zgolemiMemorija + memorija) + golemina + ".");
 		System.out.println("Tipot na memorijata e " + this.tipNaMemorija + ".");
 		System.out.println("SSD ima golemina od " + novSSD + golemina + ". Prethodno iznesuvashe " + this.SSD + golemina + ".");

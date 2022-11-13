@@ -15,7 +15,7 @@ public class Main {
 		System.out.println("Namalen broj na studenti: " + f1.vtorMetod(50));
 		f1.tretMetod();
 		
-		Fakultet f2 = new Fakultet ();
+		Fakultet f2 = new Fakultet();
 		f2.nazivNaFakultet = "Pedagoski fakultet";
 		f2.brojNaSmerovi = 4;
 		f2.brojNaStudenti = 230;

@@ -18,7 +18,7 @@ public class Avtomobil {
                   this.registracija = registracija;
 	}
 	
-	public void prvMetod () {
+	public void prvMetod() {
 		
 		System.out.println(this.marka + " " + this.model + " " + this.boja );
 	}

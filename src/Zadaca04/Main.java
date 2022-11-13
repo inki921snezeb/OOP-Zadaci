@@ -12,7 +12,7 @@ public class Main {
 
 		Scanner sc = new Scanner (System.in);
 		System.out.println("Vnesete broj na frlanja na parichkata: ");
-		brojNaFrlanja = sc.nextInt();
+		brojNaFrlanja =sc.nextInt();
 
 		while (brojNaFrlanja > 0) {
 			brPismo.reset();

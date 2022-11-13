@@ -6,7 +6,7 @@ public class Main {
 		
 		PC pc = new PC ();
 		
-		pc.prvMetod(2, 1024);
+		pc.prvMetod(2,1024);
 		
 
 	}

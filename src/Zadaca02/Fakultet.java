@@ -8,7 +8,7 @@ public class Fakultet {
 	  public String dekan;
 	  public String sediste;
 	  
-	  public void prvMetod () {
+	  public void prvMetod() {
 		  
 		  System.out.println("Zgolemen broj na studenti: " + (this.brojNaStudenti + 50));
 		  
